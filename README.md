@@ -1,2 +1,5 @@
 # passgen
-A simple password generator started with the help of Brad Traversy
+A simple password generator
+
+
+https://www.youtube.com/watch?v=3Xx83JAktXk
